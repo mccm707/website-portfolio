@@ -46,6 +46,13 @@
     left: -53px;
 }
 
+#about-header {
+    position: relative;
+    bottom: 135px;
+    left: -53px;
+    color: black;
+}
+
 #first-container {
     position: relative;
     right: -400px;

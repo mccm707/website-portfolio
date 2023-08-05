@@ -53,12 +53,13 @@
     color: black;
 }
 
+
 #first-container {
     position: relative;
     right: -400px;
     width: 700px;
     float: right;
-    bottom: 600px;
+    bottom: 640px;
 }
 
 body{

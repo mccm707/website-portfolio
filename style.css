@@ -62,7 +62,13 @@
     bottom: 650px;
 }
 
-
+#second-container {
+    position: relative;
+    right: -400px;
+    width: 700px;
+    float: right;
+    bottom: 650px;
+}
 
 body{
     margin: 0;

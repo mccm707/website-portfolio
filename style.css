@@ -75,10 +75,19 @@
     left: 81px;
     width: 363px;
     float: left;
-    bottom: 1475px;
+    bottom: 1450px;
     text-align: center;
     height: 270px;
 }
+
+#fourth-container {
+        position: relative;
+        left: -761px;
+        width: 363px;
+        float: left;
+        bottom: -163px;
+        height: 270px;
+    }
 
 body{
     margin: 0;

@@ -59,7 +59,7 @@
     right: -400px;
     width: 700px;
     float: right;
-    bottom: 650px;
+    bottom: 590px;
 }
 
 #second-container {
@@ -67,7 +67,7 @@
     right: -400px;
     width: 700px;
     float: right;
-    bottom: 650px;
+    bottom: 587px;
 }
 
 #third-container {
@@ -75,7 +75,7 @@
     left: 81px;
     width: 363px;
     float: left;
-    bottom: 1450px;
+    bottom: 1411px;
     text-align: center;
     height: 270px;
 }
@@ -86,7 +86,7 @@
         width: 363px;
         float: left;
         bottom: -163px;
-        height: 315px;
+        height: 355px;
     }
 
 body{

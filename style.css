@@ -26,6 +26,11 @@
     bottom: 140px;
     left: -53px;
 }
+#contact-info {
+    position: relative;
+    bottom: 140px;
+    left: -53px;
+}
 
 #twitter {
     position: relative;
@@ -96,6 +101,7 @@
         float: left;
         bottom: -183px;
         height: 260px;
+        
     }
 
 body{
@@ -104,6 +110,8 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #f3f5f8;
     color: #7A7C80;
+    padding-bottom: 20px;
+    min-height: 100%
 
 }
 
